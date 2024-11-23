@@ -1,3 +1,4 @@
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fcute-girl-logo&psig=AOvVaw1jlBfT_76ha3TVwppeVqYt&ust=1732462742540000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDE9eLk8okDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Madhu hampali</h1>
 <h3 align="center">A passionate software engineer</h3>
 <img align= "right" alt="coding" width="500" img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="time pass coder">
